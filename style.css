@@ -1,0 +1,16 @@
+body {
+  background: rgb(223, 223, 137);
+}
+h1 {
+  color: rgb(134, 2, 2);
+}
+h2 {
+  color: rgb(243, 160, 83);
+}
+p {
+  color: rgb(66, 62, 60);
+}
+.textposition {
+  margin-left: 100px;
+  margin-right: 100px;
+}
